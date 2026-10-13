@@ -244,6 +244,17 @@ Cada pergunta traz o **porquê** (o que o gestor decide com a resposta) e o **li
   (US$ 128,0 mil) com **apenas 2 clientes** — mercado pequeno, mas de altíssimo valor por cliente.
 - **Curva ABC:** 36 dos 77 produtos (classe A) geram 80,2% da receita; 18 produtos (classe C) somam 4,8%.
 
+| Categoria | Receita líquida | Pedidos | Desconto médio |
+|---|---:|---:|---:|
+| Beverages | US$ 267,9 mil | 354 | 6,2% |
+| Dairy Products | US$ 234,5 mil | 303 | 5,3% |
+| Confections | US$ 167,4 mil | 295 | 5,7% |
+| Meat/Poultry | US$ 163,0 mil | 161 | 6,4% |
+| Seafood | US$ 131,3 mil | 291 | 6,0% |
+| Condiments | US$ 106,0 mil | 193 | 5,3% |
+| Produce | US$ 100,0 mil | 129 | 4,5% |
+| Grains/Cereals | US$ 95,7 mil | 182 | 4,5% |
+
 ![Receita por categoria](images/02_receita_por_categoria.png)
 
 ![Receita por país](images/05_receita_por_pais.png)
@@ -293,6 +304,9 @@ Cada pergunta traz o **porquê** (o que o gestor decide com a resposta) e o **li
 - **Resposta:** 16,9% da receita (US$ 214,1 mil) veio de produtos **já descontinuados**. Em *Meat/Poultry*
   são 86,4% — os 3 produtos campeões da categoria estão descontinuados. Do lado dos fornecedores, *Aux
   joyeux ecclésiastiques* (12,1%) e *Plutzer* (11,5%) somam quase um quarto da receita.
+- **Investigação (Meat/Poultry):** a categoria fatura US$ 163,0 mil. Os seus 3 produtos campeões — *Thüringer
+  Rostbratwurst* (US$ 80,4 mil), *Alice Mutton* (US$ 32,7 mil) e *Perth Pasties* (US$ 20,6 mil) — somam US$ 133,6 mil e
+  estão todos fora de linha. Sem substitutos, a categoria tende a perder a maior parte da receita (Q12, Q26, Q28).
 
 ### 7.7 A operação cumpre o que promete? (Q02, Q03, Q04, Q17, Q19)
 
