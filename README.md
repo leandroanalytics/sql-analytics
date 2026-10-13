@@ -348,4 +348,4 @@ Cada pergunta traz o **porquê** (o que o gestor decide com a resposta) e o **li
 
 ---
 
-**Autor:** Leandro · [GitHub](https://github.com/leandroanalytics) · [LinkedIn](https://www.linkedin.com/in/leandroanalytics)
+**Autor:** Leandro Gomes · [GitHub](https://github.com/leandroanalytics) · [LinkedIn](https://www.linkedin.com/in/leandroanalytics)
