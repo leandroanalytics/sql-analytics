@@ -230,6 +230,39 @@ Por isso a comparação usa **os mesmos 4 meses completos** de cada ano:
 
 ![Receita mensal](images/01_receita_mensal.png)
 
+<details>
+<summary>Ver a receita mês a mês (Q15)</summary>
+
+| Mês | Pedidos | Receita líquida (US$ mil) |
+|---|---:|---:|
+| 1996-07 | 22 | 27,86 |
+| 1996-08 | 25 | 25,49 |
+| 1996-09 | 23 | 26,38 |
+| 1996-10 | 26 | 37,52 |
+| 1996-11 | 25 | 45,60 |
+| 1996-12 | 31 | 45,24 |
+| 1997-01 | 33 | 61,26 |
+| 1997-02 | 29 | 38,48 |
+| 1997-03 | 30 | 38,55 |
+| 1997-04 | 31 | 53,03 |
+| 1997-05 | 32 | 53,78 |
+| 1997-06 | 30 | 36,36 |
+| 1997-07 | 33 | 51,02 |
+| 1997-08 | 33 | 47,29 |
+| 1997-09 | 37 | 55,63 |
+| 1997-10 | 38 | 66,75 |
+| 1997-11 | 34 | 43,53 |
+| 1997-12 | 48 | 71,40 |
+| 1998-01 | 55 | 94,22 |
+| 1998-02 | 54 | 99,42 |
+| 1998-03 | 73 | 104,85 |
+| 1998-04 | 74 | 123,80 |
+| 1998-05 | 14 | 18,33 |
+
+Maio/1998 tem só 6 dias na base e fica fora do gráfico.
+
+</details>
+
 ---
 
 ## 7. Perguntas de negócio e respostas
@@ -303,7 +336,7 @@ Cada pergunta traz o **porquê** (o que o gestor decide com a resposta) e o **li
 - **Por que importa:** receita apoiada em produto descontinuado ou em um único fornecedor é frágil.
 - **Resposta:** 16,9% da receita (US$ 214,1 mil) veio de produtos **já descontinuados**. Em *Meat/Poultry*
   são 86,4% — os 3 produtos campeões da categoria estão descontinuados. Do lado dos fornecedores, *Aux
-  joyeux ecclésiastiques* (12,1%) e *Plutzer* (11,5%) somam quase um quarto da receita.
+  joyeux ecclésiastiques* (12,1%) e *Plutzer* (11,5%) somam 23,6% — quase um quarto da receita.
 - **Investigação (Meat/Poultry):** a categoria fatura US$ 163,0 mil. Os seus 3 produtos campeões — *Thüringer
   Rostbratwurst* (US$ 80,4 mil), *Alice Mutton* (US$ 32,7 mil) e *Perth Pasties* (US$ 20,6 mil) — somam US$ 133,6 mil e
   estão todos fora de linha. Sem substitutos, a categoria tende a perder a maior parte da receita (Q12, Q26, Q28).
