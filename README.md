@@ -348,6 +348,7 @@ Cada pergunta traz o **porquê** (o que o gestor decide com a resposta) e o **li
 
 ---
 
-**Autor:** 
-Leandro Gomes · Data Analyst
+## Autor
+
+**Leandro Gomes** · Analista de Dados<br>
 [GitHub](https://github.com/leandroanalytics) · [LinkedIn](https://www.linkedin.com/in/leandroanalytics)
