@@ -1,0 +1,18 @@
+product_id,product_name,units_in_stock,units_on_order,reorder_level,cobertura_com_pedidos
+30,Nord-Ost Matjeshering,10,0,15,Comprar agora
+70,Outback Lager,15,10,30,Comprar agora
+31,Gorgonzola Telino,0,70,20,Reposição já encomendada
+21,Sir Rodney's Scones,3,40,5,Reposição já encomendada
+66,Louisiana Hot Spiced Okra,4,100,20,Reposição já encomendada
+74,Longlife Tofu,4,20,5,Reposição já encomendada
+45,Rogede sild,5,70,15,Reposição já encomendada
+68,Scottish Longbreads,6,10,15,Reposição já encomendada
+32,Mascarpone Fabioli,9,40,25,Reposição já encomendada
+49,Maxilaku,10,60,15,Reposição já encomendada
+37,Gravad lax,11,50,25,Reposição já encomendada
+3,Aniseed Syrup,13,70,25,Reposição já encomendada
+48,Chocolade,15,70,25,Reposição já encomendada
+43,Ipoh Coffee,17,10,25,Reposição já encomendada
+56,Gnocchi di nonna Alice,21,10,30,Reposição já encomendada
+11,Queso Cabrales,22,30,30,Reposição já encomendada
+64,Wimmers gute Semmelknödel,22,80,30,Reposição já encomendada

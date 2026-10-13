@@ -1,0 +1,3 @@
+tipo_pedido,qtd_pedidos,unidades_medias_por_pedido,ticket_medio_liquido,valor_total_descontado
+Com desconto,380,72.9,1702.35,88665.55
+Sem desconto,450,52.4,1375.33,0.0

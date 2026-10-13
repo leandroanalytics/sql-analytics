@@ -1,0 +1,10 @@
+employee_id,funcionario,cargo,gestor_direto
+2,Andrew Fuller,"Vice President, Sales",(topo)
+1,Nancy Davolio,Sales Representative,Andrew Fuller
+3,Janet Leverling,Sales Representative,Andrew Fuller
+4,Margaret Peacock,Sales Representative,Andrew Fuller
+5,Steven Buchanan,Sales Manager,Andrew Fuller
+8,Laura Callahan,Inside Sales Coordinator,Andrew Fuller
+6,Michael Suyama,Sales Representative,Steven Buchanan
+7,Robert King,Sales Representative,Steven Buchanan
+9,Anne Dodsworth,Sales Representative,Steven Buchanan

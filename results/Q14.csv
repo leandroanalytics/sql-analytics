@@ -1,0 +1,10 @@
+employee_id,vendedor,cargo,qtd_pedidos,receita_liquida,ticket_medio,desconto_medio_pct
+4,Margaret Peacock,Sales Representative,156,232890.85,1492.89,6.1
+3,Janet Leverling,Sales Representative,127,202812.84,1596.95,5.0
+1,Nancy Davolio,Sales Representative,123,192107.6,1561.85,4.9
+2,Andrew Fuller,"Vice President, Sales",96,166537.76,1734.77,4.4
+8,Laura Callahan,Inside Sales Coordinator,104,126862.28,1219.83,5.6
+7,Robert King,Sales Representative,72,124568.24,1730.11,7.4
+9,Anne Dodsworth,Sales Representative,43,77308.07,1797.86,6.8
+6,Michael Suyama,Sales Representative,67,73913.13,1103.18,5.4
+5,Steven Buchanan,Sales Manager,42,68792.28,1637.91,6.7

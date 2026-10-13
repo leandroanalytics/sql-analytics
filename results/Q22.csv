@@ -1,0 +1,78 @@
+posicao,product_id,product_name,receita_liquida,participacao_pct,acumulado_pct,classe_abc
+1,38,Côte de Blaye,141396.73,11.17,11.17,A
+2,29,Thüringer Rostbratwurst,80368.67,6.35,17.52,A
+3,59,Raclette Courdavault,71155.7,5.62,23.14,A
+4,62,Tarte au sucre,47234.97,3.73,26.87,A
+5,60,Camembert Pierrot,46825.48,3.7,30.57,A
+6,56,Gnocchi di nonna Alice,42593.06,3.36,33.94,A
+7,51,Manjimup Dried Apples,41819.65,3.3,37.24,A
+8,17,Alice Mutton,32698.38,2.58,39.82,A
+9,18,Carnarvon Tigers,29171.88,2.3,42.13,A
+10,28,Rössle Sauerkraut,25696.64,2.03,44.16,A
+11,72,Mozzarella di Giovanni,24900.13,1.97,46.13,A
+12,43,Ipoh Coffee,23526.7,1.86,47.98,A
+13,20,Sir Rodney's Marmalade,22563.36,1.78,49.77,A
+14,7,Uncle Bob's Organic Dried Pears,22044.3,1.74,51.51,A
+15,64,Wimmers gute Semmelknödel,21957.97,1.73,53.24,A
+16,69,Gudbrandsdalsost,21942.36,1.73,54.98,A
+17,10,Ikura,20867.34,1.65,56.63,A
+18,53,Perth Pasties,20574.17,1.63,58.25,A
+19,26,Gumbär Gummibärchen,19849.14,1.57,59.82,A
+20,71,Flotemysost,19551.03,1.54,61.36,A
+21,40,Boston Crab Meat,17910.63,1.41,62.78,A
+22,55,Pâté chinois,17426.4,1.38,64.16,A
+23,16,Pavlova,17215.78,1.36,65.52,A
+24,63,Vegie-spread,16701.1,1.32,66.83,A
+25,2,Chang,16355.96,1.29,68.13,A
+26,76,Lakkalikööri,15760.44,1.25,69.37,A
+27,27,Schoggi Schokolade,15099.88,1.19,70.57,A
+28,31,Gorgonzola Telino,14920.88,1.18,71.74,A
+29,61,Sirop d'érable,14352.6,1.13,72.88,A
+30,65,Louisiana Fiery Hot Pepper Sauce,13869.89,1.1,73.97,A
+31,35,Steeleye Stout,13644.0,1.08,75.05,A
+32,36,Inlagd Sill,13458.46,1.06,76.11,A
+33,30,Nord-Ost Matjeshering,13424.2,1.06,77.18,A
+34,11,Queso Cabrales,12901.77,1.02,78.19,A
+35,1,Chai,12788.1,1.01,79.2,A
+36,8,Northwoods Cranberry Sauce,12772.0,1.01,80.21,A
+37,39,Chartreuse verte,12294.54,0.97,81.19,B
+38,12,Queso Manchego La Pastora,12257.66,0.97,82.15,B
+39,70,Outback Lager,10672.65,0.84,83.0,B
+40,44,Gula Malacca,9915.94,0.78,83.78,B
+41,49,Maxilaku,9244.6,0.73,84.51,B
+42,77,Original Frankfurter grüne Soße,9171.63,0.72,85.23,B
+43,21,Sir Rodney's Scones,9104.0,0.72,85.95,B
+44,68,Scottish Longbreads,8714.0,0.69,86.64,B
+45,41,Jack's New England Clam Chowder,8680.34,0.69,87.33,B
+46,42,Singaporean Hokkien Fried Mee,8575.0,0.68,88.01,B
+47,4,Chef Anton's Cajun Seasoning,8567.9,0.68,88.68,B
+48,32,Mascarpone Fabioli,8404.16,0.66,89.35,B
+49,75,Rhönbräu Klosterbier,8177.49,0.65,89.99,B
+50,14,Tofu,7991.49,0.63,90.62,B
+51,57,Ravioli Angelo,7661.55,0.61,91.23,B
+52,9,Mishi Kobe Niku,7226.5,0.57,91.8,B
+53,6,Grandma's Boysenberry Spread,7137.0,0.56,92.36,B
+54,22,Gustaf's Knäckebröd,7122.36,0.56,92.93,B
+55,34,Sasquatch Ale,6350.4,0.5,93.43,B
+56,46,Spegesild,5883.0,0.46,93.89,B
+57,58,Escargots de Bourgogne,5881.68,0.46,94.36,B
+58,19,Teatime Chocolate Biscuits,5862.62,0.46,94.82,B
+59,5,Chef Anton's Gumbo Mix,5347.2,0.42,95.24,B
+60,13,Konbu,4960.44,0.39,95.64,C
+61,54,Tourtière,4728.24,0.37,96.01,C
+62,23,Tunnbröd,4601.7,0.36,96.37,C
+63,24,Guaraná Fantástica,4504.36,0.36,96.73,C
+64,45,Rogede sild,4338.18,0.34,97.07,C
+65,73,Röd Kaviar,3997.2,0.32,97.39,C
+66,47,Zaanse koeken,3958.08,0.31,97.7,C
+67,25,NuNuCa Nuß-Nougat-Creme,3704.4,0.29,97.99,C
+68,50,Valkoinen suklaa,3437.69,0.27,98.26,C
+69,66,Louisiana Hot Spiced Okra,3383.0,0.27,98.53,C
+70,52,Filo Mix,3232.95,0.26,98.79,C
+71,3,Aniseed Syrup,3044.0,0.24,99.03,C
+72,37,Gravad lax,2688.4,0.21,99.24,C
+73,74,Longlife Tofu,2432.5,0.19,99.43,C
+74,67,Laughing Lumberjack Lager,2396.8,0.19,99.62,C
+75,15,Genen Shouyu,1784.83,0.14,99.76,C
+76,33,Geitost,1648.13,0.13,99.89,C
+77,48,Chocolade,1368.71,0.11,100.0,C

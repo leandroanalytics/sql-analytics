@@ -1,0 +1,16 @@
+order_id,produto,categoria,fornecedor,preco_praticado,quantidade,desconto,receita_liquida
+10981,Côte de Blaye,Beverages,Aux joyeux ecclésiastiques,263.5,60,0.0,15810.0
+10865,Côte de Blaye,Beverages,Aux joyeux ecclésiastiques,263.5,60,0.05,15019.5
+10417,Côte de Blaye,Beverages,Aux joyeux ecclésiastiques,210.8,50,0.0,10540.0
+10889,Côte de Blaye,Beverages,Aux joyeux ecclésiastiques,263.5,40,0.0,10540.0
+10897,Thüringer Rostbratwurst,Meat/Poultry,Plutzer Lebensmittelgroßmärkte AG,123.79,80,0.0,9903.2
+10353,Côte de Blaye,Beverages,Aux joyeux ecclésiastiques,210.8,50,0.2,8432.0
+10424,Côte de Blaye,Beverages,Aux joyeux ecclésiastiques,210.8,49,0.2,8263.36
+10540,Côte de Blaye,Beverages,Aux joyeux ecclésiastiques,263.5,30,0.0,7905.0
+10817,Côte de Blaye,Beverages,Aux joyeux ecclésiastiques,263.5,30,0.0,7905.0
+10816,Côte de Blaye,Beverages,Aux joyeux ecclésiastiques,263.5,30,0.05,7509.75
+11032,Côte de Blaye,Beverages,Aux joyeux ecclésiastiques,263.5,25,0.0,6587.5
+10372,Côte de Blaye,Beverages,Aux joyeux ecclésiastiques,210.8,40,0.25,6324.0
+10479,Côte de Blaye,Beverages,Aux joyeux ecclésiastiques,210.8,30,0.0,6324.0
+11017,Raclette Courdavault,Dairy Products,Gai pâturage,55.0,110,0.0,6050.0
+10776,Manjimup Dried Apples,Produce,"G'day, Mate",53.0,120,0.05,6042.0

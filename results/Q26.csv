@@ -1,0 +1,25 @@
+categoria,posicao,produto,receita_liquida,descontinuado
+Beverages,1,Côte de Blaye,141396.73,Não
+Beverages,2,Ipoh Coffee,23526.7,Não
+Beverages,3,Chang,16355.96,Sim
+Condiments,1,Vegie-spread,16701.1,Não
+Condiments,2,Sirop d'érable,14352.6,Não
+Condiments,3,Louisiana Fiery Hot Pepper Sauce,13869.89,Não
+Confections,1,Tarte au sucre,47234.97,Não
+Confections,2,Sir Rodney's Marmalade,22563.36,Não
+Confections,3,Gumbär Gummibärchen,19849.14,Não
+Dairy Products,1,Raclette Courdavault,71155.7,Não
+Dairy Products,2,Camembert Pierrot,46825.48,Não
+Dairy Products,3,Mozzarella di Giovanni,24900.13,Não
+Grains/Cereals,1,Gnocchi di nonna Alice,42593.06,Não
+Grains/Cereals,2,Wimmers gute Semmelknödel,21957.97,Não
+Grains/Cereals,3,Singaporean Hokkien Fried Mee,8575.0,Sim
+Meat/Poultry,1,Thüringer Rostbratwurst,80368.67,Sim
+Meat/Poultry,2,Alice Mutton,32698.38,Sim
+Meat/Poultry,3,Perth Pasties,20574.17,Sim
+Produce,1,Manjimup Dried Apples,41819.65,Não
+Produce,2,Rössle Sauerkraut,25696.64,Sim
+Produce,3,Uncle Bob's Organic Dried Pears,22044.3,Não
+Seafood,1,Carnarvon Tigers,29171.88,Não
+Seafood,2,Ikura,20867.34,Não
+Seafood,3,Boston Crab Meat,17910.63,Não

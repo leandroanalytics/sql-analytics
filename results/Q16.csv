@@ -1,0 +1,11 @@
+customer_id,cliente,pais,qtd_pedidos,receita_liquida,primeira_compra,ultima_compra
+QUICK,QUICK-Stop,Germany,28,110277.3,1996-08-05,1998-04-14
+ERNSH,Ernst Handel,Austria,30,104874.98,1996-07-17,1998-05-05
+SAVEA,Save-a-lot Markets,USA,31,104361.95,1996-10-08,1998-05-01
+RATTC,Rattlesnake Canyon Grocery,USA,18,51097.8,1996-07-22,1998-05-06
+HUNGO,Hungry Owl All-Night Grocers,Ireland,19,49979.9,1996-09-05,1998-04-30
+HANAR,Hanari Carnes,Brazil,14,32841.37,1996-07-08,1998-04-27
+KOEN,Königlich Essen,Germany,14,30908.38,1996-10-07,1998-04-16
+FOLKO,Folk och fä HB,Sweden,19,29567.56,1996-07-24,1998-04-27
+MEREP,Mère Paillarde,Canada,13,28872.19,1996-10-17,1997-10-30
+WHITC,White Clover Markets,USA,14,27363.6,1996-07-31,1998-05-01
